@@ -1,0 +1,16 @@
+﻿[Memo1]
+Coordinates=315,10,53,51
+
+[CheckBoxConnectDisconnet]
+Coordinates=64,10,155,51
+Visible=True
+
+[Button1]
+Coordinates=298,78,53,51
+
+[IdTCPClient1]
+Coordinates=549,56,78,33
+
+[]
+Coordinates=10,10,40,51
+
